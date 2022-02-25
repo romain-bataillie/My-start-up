@@ -1,0 +1,23 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)50%), url(../../images/course.jpeg);
+  color: black;
+  background-size: cover;
+  padding: 150px 0px;
+  background-position: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 40px;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+
+
+
+

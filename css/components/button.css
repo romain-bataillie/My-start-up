@@ -1,0 +1,9 @@
+.btn-grey {
+  background-color: #0BCDBE;
+  color: black;
+  padding: 15px 25px;
+  border-radius: 4px;
+  transition: color 0.3s ease;
+  font-family: 'Roboto', sans-serif;
+}
+
